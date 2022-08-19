@@ -1,2 +1,0 @@
-Title: Study Git
-Subtitle: Hello how are you
